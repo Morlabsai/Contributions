@@ -7,8 +7,8 @@
 At Mor Labs, contributions are the backbone of our progress and innovation. Whether it’s through code submissions, enhancing documentation, proposing new Morpheus Request for Comments (MRCs), or supporting Mor Labs operations, your contribution is invaluable. We encourage you to leverage your unique skills and interests to contribute in ways you find most impactful.
 
 #### Types of Contributions:
-- [Single Task] (https://github.com/Morlabsai/Contributions/blob/main/single_tasks.md): Defined projects or tasks with a specific goal in mind.
-- [Recurring workflows] (https://github.com/Morlabsai/Contributions/blob/main/recurring_workflows.md): Ongoing responsibilities or roles that require continuous attention.
+- [Single Task](https://github.com/Morlabsai/Contributions/blob/main/single_tasks.md): Defined projects or tasks with a specific goal in mind.
+- [Recurring tasks](https://github.com/Morlabsai/Contributions/blob/main/recurring_workflows.md): Ongoing responsibilities or roles that require continuous attention.
 
 Your contributions can either be predefined tasks listed on platforms like Morpheus Dework, within Morpheus GitHub repositories, or self-initiated projects that you believe will add value to Mor Labs.
 
