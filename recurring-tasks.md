@@ -1,4 +1,4 @@
-## Contribution Provider - Proof of Contribution Table for single tasks
+## Contribution Provider - Proof of Contribution Table for recurring tasks
 
 **Before adding a pull request to this table [please read the BEST PRACTICES GUIDE](https://github.com/Morlabsai/Contributions/)**
 
